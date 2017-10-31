@@ -11,4 +11,5 @@ Podcast:
  
 Misc:
   -Laga merch
-  -Laga ein organisasjon ala RomlingCorp.
+  -Laga ein organisasjon ala Romlingenes Landsforbund
+  -Laga The International Spaceling Association
